@@ -105,7 +105,7 @@ const Header = () => {
                             <div className="flex items-center justify-center gap-1">
                                 <FaGithub size={18} />
                                 <span>Source Code: </span>
-                                <a href="https://github.com/abhii-fsd/weather" target="_blank" className={`${theme === 'dark' ? 'text-indigo-400' : 'text-indigo-500'} hover:underline`}>github.com/er_abhii_fsd/weather</a>
+                                <a href="https://github.com/Er-Abhay-FSD/SkyTracker" target="_blank" className={`${theme === 'dark' ? 'text-indigo-400' : 'text-indigo-500'} hover:underline`}>https://github.com/Er-Abhay-FSD/SkyTracker</a>
                             </div>
                         </div>
                     </Modal>
