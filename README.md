@@ -2,6 +2,8 @@
 
 ### The most Beautiful Weather App (Made using React.js, Tailwind CSS, and Ant Design)
 
+SkyTracker is a beautifully designed weather application built using the latest technologies including React.js ⚛️, Tailwind CSS 🎨, and Ant Design 🐜. This app provides accurate and up-to-date weather information powered by OpenWeather 🌦️ and Geoapify 🌍 APIs. It offers an intuitive user experience with a clean and responsive UI that adapts seamlessly to different screen sizes 📱💻🖥️ and modes 🌗.
+
 ![SkyTracker Banner](./src/assets/screenshots/pcblack.png)
 
 ## APIs Used
