@@ -6,9 +6,13 @@ SkyTracker is a beautifully designed weather application built using the latest 
 
 ![SkyTracker Banner](./src/assets/screenshots/pcblack.png)
 
+
 ## APIs Used
-- **OpenWeather:** [OpenWeather API](https://openweathermap.org/api) (for weather information) 🌦️
-- **Geoapify:** [Geoapify Geocoding API](https://www.geoapify.com/geocoding-api) (for geocoding) 🌍
+- **OpenWeather:** [OpenWeather API](https://openweathermap.org/api) 🌦️
+  - Provides comprehensive weather data, including current weather conditions, forecasts, and historical data. The API delivers detailed information on temperature, humidity, wind speed, and other meteorological elements, ensuring that users receive accurate and real-time weather updates.
+
+- **Geoapify:** [Geoapify Geocoding API](https://www.geoapify.com/geocoding-api) 🌍
+  - Offers geocoding and reverse geocoding services, which translate addresses into geographic coordinates and vice versa. This API enables the app to pinpoint user locations and fetch corresponding weather data efficiently, enhancing the overall user experience with precise location-based weather information.
 
 ## Live Link 🚀
 **This project is deployed at:** [SkyTracker App](https://sky-tracker-seven.vercel.app/)
