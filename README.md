@@ -2,7 +2,7 @@
 
 ### The most Beautiful Weather App (Made using React.js, Tailwind CSS, and Ant Design)
 
-![SkyTracker Banner](./src/assets/screenshots/banner.png)
+![SkyTracker Banner](./src/assets/screenshots/pcblack.png)
 
 ## APIs Used
 - **OpenWeather:** [OpenWeather API](https://openweathermap.org/api) (for weather information) 🌦️
@@ -47,8 +47,8 @@
     <div style="display:flex; flex-direction:column; gap:10px">
         <span style="font-size:20px;">Mobiles 📱</span>
         <div style="display:flex; gap:10px">
-            <img src="./src/assets/screenshots/ss5.png" alt="Mobile screenshot 1" style="width:46%; height:auto;"/>
-            <img src="./src/assets/screenshots/ss6.png" alt="Mobile screenshot 2" style="width:46%; height:auto;"/>
+            <img src="./src/assets/screenshots/phoneimg1.jpg" alt="Mobile screenshot 1" style="width:46%; height:auto;"/>
+            <img src="./src/assets/screenshots/phoneimg2.jpeg" alt="Mobile screenshot 2" style="width:46%; height:auto;"/>
         </div>
     </div>
     <div style="display:flex; flex-direction:column; gap:10px">
@@ -58,7 +58,7 @@
     </div>
     <div style="display:flex; flex-direction:column; gap:10px">
         <span style="font-size:20px;">Desktops 🖥️</span>
-        <img src="./src/assets/screenshots/ss1.png" alt="Desktop screenshot 1" style="width:100%; height:auto;"/>
+        <img src="./src/assets/screenshots/pcblack.png" alt="Desktop screenshot 1" style="width:100%; height:auto;"/>
         <img src="./src/assets/screenshots/ss2.png" alt="Desktop screenshot 2" style="width:100%; height:auto;"/>
     </div>
 </div>
