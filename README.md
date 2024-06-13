@@ -9,7 +9,7 @@
 - **Geoapify:** [Geoapify Geocoding API](https://www.geoapify.com/geocoding-api) (for geocoding) 🌍
 
 ## Live Link 🚀
-**This project is deployed at:** [sky-tracker-seven.vercel.app](https://sky-tracker-seven.vercel.app)
+**This project is deployed at:** [https://sky-tracker-seven.vercel.app/](https://sky-tracker-seven.vercel.app/)
 
 ## To Run Locally 🛠️
 *You must have Node.js and NPM installed.*
@@ -59,7 +59,7 @@
     <div style="display:flex; flex-direction:column; gap:10px">
         <span style="font-size:20px;">Desktops 🖥️</span>
         <img src="./src/assets/screenshots/pcblack.png" alt="Desktop screenshot 1" style="width:100%; height:auto;"/>
-        <img src="./src/assets/screenshots/ss2.png" alt="Desktop screenshot 2" style="width:100%; height:auto;"/>
+        <img src="./src/assets/screenshots/pclight.png" alt="Desktop screenshot 2" style="width:100%; height:auto;"/>
     </div>
 </div>
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/YourGitHubProfile)
+Made with ❤️ by [Your Name](https://github.com/Er-Abhay-FSD)
