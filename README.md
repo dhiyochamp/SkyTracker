@@ -69,6 +69,15 @@ SkyTracker is a beautifully designed weather application built using the latest 
     </div>
 </div>
 
+
+## Profile Features 📝
+Click on **[SkyTracker](https://sky-tracker-seven.vercel.app/)** to view the full list of features available in this app. Below is a screenshot of my profile showing the project:
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="./src/assets/screenshots/pcblackprofile.png" alt="Profile screenshot showing SkyTracker" style="width: 100%; height: auto;"/>
+   <img src="./src/assets/screenshots/pclightprofile.png" alt="Profile screenshot showing SkyTracker" style="width: 100%; height: auto;"/>
+</div>
+
 ## How to Contribute 🤝
 1. **Fork the repository.**
 2. **Create your feature branch:**
