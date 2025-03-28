@@ -84,15 +84,15 @@ const Header = () => {
                                     <FaCode size={18} />
                                     <div>Portfolio</div>
                                 </div>
-                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('https://www.linkedin.com/in/abhay-fsd/')}>
+                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('https://www.linkedin.com/in/dhiyochamp/')}>
                                     <FaLinkedinIn size={18} />
                                     <div>Linkedin</div>
                                 </div>
-                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('https://github.com/Er-Abhay-FSD')}>
+                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('https://github.com/dhiyochamp')}>
                                     <FaGithub size={18} />
                                     <div>GitHub</div>
                                 </div>
-                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('')}>
+                                <div className="transition-all duration-200 flex items-center justify-center text-center gap-2 rounded-full p-1 bg-white text-black border-2 border-white cursor-pointer hover:p-2 hover:bg-gray-700 hover:text-white" onClick={() => linkRedirect('https://www.instagram.com/dhiyochamp/')}>
                                     <FaInstagram size={18} />
                                     <div>Instagram</div>
                                 </div>
@@ -105,7 +105,7 @@ const Header = () => {
                             <div className="flex items-center justify-center gap-1">
                                 <FaGithub size={18} />
                                 <span>Source Code: </span>
-                                <a href="https://github.com/Er-Abhay-FSD/SkyTracker" target="_blank" className={`${theme === 'dark' ? 'text-indigo-400' : 'text-indigo-500'} hover:underline`}>https://github.com/Er-Abhay-FSD/SkyTracker</a>
+                                <a href="https://github.com/dhiyochamp/SkyTracker" target="_blank" className={`${theme === 'dark' ? 'text-indigo-400' : 'text-indigo-500'} hover:underline`}>https://github.com/dhiyochamp/SkyTracker</a>
                             </div>
                         </div>
                     </Modal>
