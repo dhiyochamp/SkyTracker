@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [ABHAY SINGH](https://github.com/Er-Abhay-FSD)
+Made with ❤️ by [ABHAY SINGH](https://github.com/dhiyochamp)
